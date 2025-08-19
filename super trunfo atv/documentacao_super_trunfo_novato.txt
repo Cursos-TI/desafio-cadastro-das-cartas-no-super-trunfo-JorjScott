@@ -1,0 +1,24 @@
+Documentacao do Desafio Super Trunfo - Nível Novato (Cadastro)
+
+Objetivo:
+Criar um programa em C que cadastre duas cartas do jogo Super Trunfo com tema "Países".
+
+Atributos cadastrados:
+- Codigo da carta (ex: A01, B02)
+- Populacao (int)
+- Area (float)
+- PIB (float)
+- Numero de pontos turisticos (int)
+
+Entrada de Dados:
+O usuario digita os dados de cada carta usando scanf.
+
+Saida de Dados:
+O programa mostra na tela os dados de cada carta usando printf.
+Cada atributo aparece em uma nova linha.
+
+Simplificacoes do Nível Novato:
+- Apenas duas cartas cadastradas.
+- Nao usar laços de repeticao (for, while).
+- Nao usar condicionais (if, else).
+- Foco apenas em entrada e saida de dados.
